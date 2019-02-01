@@ -1,5 +1,5 @@
 'use strict';
 
-var USERNAME = 'mateogianolio', // github username
+var USERNAME = 'kentrein', // github username
     REPO = 'openblog', // github repository
-    TOKEN = '065d9dada1a528b2a741cc5a9699f1be2589644c'; // github app access token
+    TOKEN = '082679414abdf6bbeb60935dce69bac5748110a8'; // github app access token
